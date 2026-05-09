@@ -142,4 +142,5 @@ def main():
     else :
         print("Wrong option used")
 
-main()
+if __name__ == "__main__":
+    main()
